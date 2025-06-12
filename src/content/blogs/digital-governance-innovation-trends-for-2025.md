@@ -4,6 +4,7 @@ image: /uploads/wj-11.png
 descripcion: Analysis of the main trends in digital governance for the coming
   years and how they can be implemented in Latin America.
 date: 2024-05-12T07:30:00.000Z
+author: Julio Herrera Toledo
 highlight: false
 ---
 

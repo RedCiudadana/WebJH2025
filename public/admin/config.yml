@@ -28,6 +28,7 @@ collections:
       - { label: "Descripción General", name: "descripcion", widget: "text" }
       - { name: "date", label: "Date", widget: "datetime" }
       - { name: "body", label: "Body", widget: "markdown" }
+      - { name: "author", label: "Author" }
       - {
           name: "highlight",
           label: "Highlight",
