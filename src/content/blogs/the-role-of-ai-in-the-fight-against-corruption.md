@@ -4,6 +4,7 @@ image: /uploads/wj-12.png
 descripcion: How artificial intelligence is changing the landscape of
   anti-corruption efforts and the associated ethical challenges.
 date: 2024-04-18T07:34:00.000Z
+author: Julio Herrera Toledo
 highlight: false
 ---
 
