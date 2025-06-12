@@ -2,11 +2,12 @@ export interface BlogPost {
   id: number;
   title: string;
   excerpt: string;
-  content: string;
+  content: string | Promise<string>;
   date: string;
   author: string;
   image: string;
   slug: string;
+  highlight: boolean;
 }
 
 export interface Project {
