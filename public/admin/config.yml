@@ -35,3 +35,23 @@ collections:
           widget: "boolean",
           default: false,
         }
+  - name: "proyectos"
+    label: "Proyectos"
+    folder: "src/content/proyectos"
+    create: true
+    slug: "{{slug}}"
+    fields:
+    - { label: "Nombre", name: "title", widget: "string" }
+      - { label: "Thumbnail", name: "image", widget: "image" }
+      - { label: "Descripción General", name: "descripcion", widget: "text" }
+      - { name: "date", label: "Date", widget: "datetime" }
+      - { label: "Institucion", name: "institucion", widget: "string" }
+      - { label: "Categoria", name: "categoria", widget: "string" }
+      - { label: "Enlace", name: "enlace", widget: "string" }
+      - {
+          name: "highlight",
+          label: "Highlight",
+          widget: "boolean",
+          default: false,
+        }
+      
