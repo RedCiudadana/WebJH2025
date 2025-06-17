@@ -41,7 +41,7 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-    - { label: "Nombre", name: "title", widget: "string" }
+      - { label: "Nombre", name: "title", widget: "string" }
       - { label: "Thumbnail", name: "image", widget: "image" }
       - { label: "Descripción General", name: "descripcion", widget: "text" }
       - { name: "date", label: "Date", widget: "datetime" }
