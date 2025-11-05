@@ -102,19 +102,15 @@ const translations = {
     'contact.form.success': 'Mensaje enviado correctamente. Gracias por contactar.',
     
     // Footer
-    'footer.description': 'Experto en gobernanza digital, anticorrupción e innovación pública con más de 12 años de experiencia trabajando en América Latina y el Caribe.',
+    'footer.description': 'Consultor en gobernanza digital, anticorrupción e innovación pública con más de 12 años acompañando proyectos en América Latina y el Caribe.',
     'footer.quickLinks': 'Enlaces Rápidos',
     'footer.rights': 'Todos los derechos reservados.',
     
-    // Newsletter
-    'newsletter.title': '📬 Mantente al día en Gobernanza Digital',
-    'newsletter.description': 'Recibe insights sobre tecnología cívica, transparencia e innovación pública directamente en tu bandeja de entrada, una vez al mes.',
-    'newsletter.placeholder': 'Tu correo electrónico',
-    'newsletter.subscribe': '✍️ Suscribirse al Newsletter',
-    'newsletter.disclaimer': 'Al suscribirte, aceptas recibir correos electrónicos mensuales.',
-    'newsletter.thanks': '¡Gracias por suscribirte!',
-    'newsletter.thanksDesc': 'Pronto recibirás nuestro primer newsletter.',
-    'newsletter.close': 'Cerrar'
+    // LinkedIn
+    'linkedin.title': '¡Conectemos en LinkedIn!',
+    'linkedin.description': 'Mantengamos contacto y compartamos ideas sobre gobernanza digital, innovación pública y anticorrupción.',
+    'linkedin.connect': 'Conectar en LinkedIn',
+    'linkedin.close': 'Cerrar'
   },
   en: {
     // Navigation
@@ -199,19 +195,15 @@ const translations = {
     'contact.form.success': 'Message sent successfully. Thank you for contacting.',
     
     // Footer
-    'footer.description': 'Expert in digital governance, anti-corruption and public innovation with over 12 years of experience working in Latin America and the Caribbean.',
+    'footer.description': 'Consultant in digital governance, anti-corruption and public innovation with over 12 years supporting projects in Latin America and the Caribbean.',
     'footer.quickLinks': 'Quick Links',
     'footer.rights': 'All rights reserved.',
     
-    // Newsletter
-    'newsletter.title': '📬 Stay Updated on Digital Governance',
-    'newsletter.description': 'Receive insights on civic technology, transparency and public innovation directly in your inbox, once a month.',
-    'newsletter.placeholder': 'Your email address',
-    'newsletter.subscribe': '✍️ Subscribe to Newsletter',
-    'newsletter.disclaimer': 'By subscribing, you agree to receive monthly emails.',
-    'newsletter.thanks': 'Thank you for subscribing!',
-    'newsletter.thanksDesc': 'You will soon receive our first newsletter.',
-    'newsletter.close': 'Close'
+    // LinkedIn
+    'linkedin.title': "Let's Connect on LinkedIn!",
+    'linkedin.description': "Let's stay in touch and share ideas about digital governance, public innovation and anti-corruption.",
+    'linkedin.connect': 'Connect on LinkedIn',
+    'linkedin.close': 'Close'
   }
 };
 
